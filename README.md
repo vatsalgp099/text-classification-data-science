@@ -19,6 +19,7 @@ To perform a text classification on consumer complaint dataset into following ca
 * Multi Classification model
 * Comparison of model performance and Model Evaluation
 * Prediction 
+* Limitations
 * References
 
 ## Dataset 
@@ -99,6 +100,11 @@ It's is also appropriately depicted in confusion matrix (refer to EDA section)
 The final result are as follows : 
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/68069100/235379485-2a45ce25-afab-4531-aa38-f768fcc8e6fe.png)
+
+## Limitations
+
+1. Cannot coincide the id number with product. 
+2. This is an experimental model and might not always predict accurately. 
 
 ## References: 
 
